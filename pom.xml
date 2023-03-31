@@ -5,6 +5,9 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>0.12.9</version>
+	<configuration>
+        	<failOnMissingWebXml>false</failOnMissingWebXml>
+    	</configuration>
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
