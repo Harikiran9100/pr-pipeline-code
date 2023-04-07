@@ -9,7 +9,6 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<docker.image.prefix>devops</docker.image.prefix>
-		<failOnMissingWebXml>false</failOnMissingWebXml>
 	</properties>	
 	<dependencies>
 		<dependency>
